@@ -12,7 +12,6 @@
 
 - 🔭 Şu anda mobil ve web projeleri geliştiriyorum  
 - 💬 React, React Native, Flutter ve daha fazlası hakkında konuşabilirim  
-- 📫 Bana ulaşmak için: **edaacolakk1907@gmail.com**  
 - ⚡ Eğlenerek kod yazarım, öğrenmeyi çok severim  
 
 ---
@@ -44,6 +43,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edacolakx&show_icons=true&theme=radical" alt="Eda'nın GitHub İstatistikleri" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edacolakx&layout=compact&langs_count=10&theme=radical" />
 </p>
 
 ---
