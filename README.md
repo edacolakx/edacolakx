@@ -11,7 +11,7 @@
 ## 🚀 Hakkımda
 
 - 🔭 Şu anda mobil ve web projeleri geliştiriyorum  
-- 💬 React, React Native, Flutter, .NET ve daha fazlası hakkında konuşabilirim  
+- 💬 React, React Native, Flutter ve daha fazlası hakkında konuşabilirim  
 - 📫 Bana ulaşmak için: **edaacolakk1907@gmail.com**  
 - ⚡ Eğlenerek kod yazarım, öğrenmeyi çok severim  
 
