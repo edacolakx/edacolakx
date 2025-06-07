@@ -12,7 +12,7 @@
 
 - 🔭 Şu anda mobil ve web projeleri geliştiriyorum  
 - 💬 React, React Native, Flutter, .NET ve daha fazlası hakkında konuşabilirim  
-- 📫 Bana ulaşmak için: **edacolak@example.com**  
+- 📫 Bana ulaşmak için: **edaacolakk1907@gmail.com**  
 - ⚡ Eğlenerek kod yazarım, öğrenmeyi çok severim  
 
 ---
@@ -45,7 +45,7 @@
 ## 🌐 Sosyal Medya
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/edacolakx/" target="_blank">
+  <a href="https://www.linkedin.com/in/eda-çolak-271403260/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <!-- Diğer sosyal medya linklerini de ekleyebilirsin -->
